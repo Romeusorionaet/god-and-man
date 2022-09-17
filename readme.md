@@ -4,7 +4,7 @@
 
 ![preview](./.github/preview.png)
 
-[Clique aqui para ter acesso completo](https://romeusorionaet.github.io/deus-e-o-homem/)
+[Clique aqui para ter acesso completo](https://romeusorionaet.github.io/god-and-man/)
 
 ## Tecnologias 
 
