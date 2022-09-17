@@ -1,4 +1,4 @@
-# Deus e o Homem
+# God and Man
 
 > Testei esse keyframes usando duas imagens, bem simples.
 
@@ -9,7 +9,7 @@
 ## Tecnologias 
 
 - HTML
-= CSS
+- CSS
 
 ## Meu Contato
 
